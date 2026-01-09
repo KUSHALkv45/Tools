@@ -1,4 +1,4 @@
-- Before Coding
+## Before Coding
 - Restated the problem in own words
 - Asked about input constraints/edge cases: 
 
@@ -7,13 +7,13 @@
 - Stated time/space complexity of chosen approach
 - Got "go-ahead" before coding
 
-- During Coding
+ ## During Coding
 - Talked through what they're writing
 - Used meaningful variable names
 - Wrote modular/clean code
 - Handled edge cases (empty input, single element, etc.)
 
-- After Coding
+## After Coding
 - Walked through code with an example
 - Tested edge cases manually
 - Identified and fixed bugs
